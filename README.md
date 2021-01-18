@@ -8,6 +8,8 @@ PGP Key: [E5EA 38B2 0337 6D66 F613 1D90 E82F 518F 966B 93AC](http://keys.gnupg.n
 
 [Rust](https://www.rust-lang.org)
 
+[Operating Systems Development](https://wiki.osdev.org)
+
 ## 🔭 I’m currently working on:
 
 Likely a project for my MS in computer science from Georgia Tech through their [online program](https://omscs.gatech.edu).

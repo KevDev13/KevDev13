@@ -10,7 +10,7 @@ Likely a project for my MSCS from [Georgia Tech](https://omscs.gatech.edu). When
 
 ## Wait a second... seems like you do a lot of work on private repos. Don't you support open source?
 
-I do, in fact, fully support open source. The only contributions to private repos I make are projects for my MS degree. Due to honor code restrictions I am forced to make my classwork closed-source, as it would be considered cheating by the unviersity to make my classwork open source.
+I do, in fact, fully support open source. The only private repos I work on are the projects for my MS degree. Due to honor code restrictions I am forced to make my classwork closed-source, as the university would consider it cheating if I made my classwork open source.
 <!--
 **KevDev13/KevDev13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

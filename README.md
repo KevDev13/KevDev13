@@ -10,7 +10,7 @@ Likely a project for my MSCS from [Georgia Tech](https://omscs.gatech.edu) (thes
 
 ## Git Repos
 
-I am currently in the process of moving all my git repos to my personal git host at git.kevingarner.net. I will continue to mirror all of my git repos here on GitHub.
+I am currently in the process of moving all my git repos to my personal git host [here](https://git.kevingarner.net). I will continue to mirror all of my git repos here on GitHub.
 <!--
 **KevDev13/KevDev13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

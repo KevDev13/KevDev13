@@ -7,10 +7,6 @@ PGP Key: [E5EA 38B2 0337 6D66 F613 1D90 E82F 518F 966B 93AC](http://keys.gnupg.n
 ## 🔭 What are you currently working on?
 
 Likely a project for my MSCS from [Georgia Tech](https://omscs.gatech.edu) (these are the private repos you see in my GitHub contributions). When I'm not working on those, I usually work on projects related to operating systems and embedded systems.
-
-## Git Repos
-
-I am currently in the process of moving all my git repos to my personal git host [here](https://git.kevingarner.net). I will continue to mirror all of my git repos here on GitHub.
 <!--
 **KevDev13/KevDev13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

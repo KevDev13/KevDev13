@@ -1,6 +1,6 @@
 ## 📫 How can I reach you?
 
-E-mail: kevin@kgar.net (using the PGP key below if you prefer encrypted communication), or kg.dev@protonmail.com.
+E-mail: kevin@kgar.net (using the PGP key below if you prefer encrypted communication), or kevin.garner@pm.me.
 
 PGP Key: [E5EA 38B2 0337 6D66 F613 1D90 E82F 518F 966B 93AC](http://keys.gnupg.net/pks/lookup?search=0xE82F518F966B93AC&fingerprint=on&exact=on&op=get&options=mr)
 

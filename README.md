@@ -1,6 +1,8 @@
 ## 📫 How can I reach you?
 
-E-mail: kevin.garner@pm.me or kevin.m.garner@gmail.com
+E-mail: kevin@kevingarner.net ([PGP](https://raw.githubusercontent.com/KevDev13/pgp-key/main/public.asc)) or kevin.m.garner@gmail.com. If you use [ProtonMail](https://protonmail.com) I also use kevin.garner@pm.me.
+
+Keybase: https://keybase.io/kgar
 
 ## 🔭 What are you currently working on?
 

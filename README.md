@@ -4,9 +4,7 @@ E-mail: kevin@kevingarner.net or kevin.m.garner@gmail.com. If you use [ProtonMai
 
 Keybase: https://keybase.io/kgar
 
-Encryption keys:
-- [PGP](https://raw.githubusercontent.com/KevDev13/keys/main/pgp-public.asc)
-- age (coming soon...)
+[PGP](https://raw.githubusercontent.com/KevDev13/keys/main/pgp-public.asc) key
 
 ## 🔭 What are you currently working on?
 

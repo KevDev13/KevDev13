@@ -8,7 +8,7 @@ Keybase: https://keybase.io/kgar
 
 ## Resume
 
-If you're looking for my resume, that is located [here](https://github.com/KevDev13/resume/blob/main/resume.pdf). I use [LaTeX](https://www.latex-project.org/) to format my resume, and use [Overleaf](https://www.overleaf.com/) for my LaTeX editor.
+If you're looking for my resume, that is located [here](https://github.com/KevDev13/resume/blob/main/resume.pdf).
 
 ## 🔭 What are you currently working on?
 

@@ -2,8 +2,6 @@
 
 E-mail: kevin.garner@pm.me
 
-[PGP](https://raw.githubusercontent.com/KevDev13/keys/main/pgp-public.asc) key
-
 ## Resume
 
 If you're looking for my resume, it is located [here](https://github.com/KevDev13/resume/blob/main/resume.pdf).

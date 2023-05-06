@@ -1,7 +1,3 @@
-## 📫 How can I reach you?
-
-E-mail: hi@kevrenac.io
-
 ## Resume
 
 If you're looking for my resume, it is located [here](https://github.com/KevDev13/resume/blob/main/resume.pdf).

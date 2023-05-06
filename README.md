@@ -1,6 +1,6 @@
 ## 📫 How can I reach you?
 
-E-mail: kevin.garner@pm.me
+E-mail: hi@kevrenac.io
 
 ## Resume
 
